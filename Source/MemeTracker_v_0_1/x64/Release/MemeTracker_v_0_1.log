@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  MemeTracker_v_0_1.cpp
+MemeTracker_v_0_1.cpp(237): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+MemeTracker_v_0_1.cpp(243): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+MemeTracker_v_0_1.cpp(284): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+MemeTracker_v_0_1.cpp(290): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  All 389 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MemeTracker_v_0_1.vcxproj -> C:\Users\melodee\Documents\GitHub\MemeTracker\Source\x64\Release\MemeTracker_v_0_1.exe
