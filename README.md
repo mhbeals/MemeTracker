@@ -26,4 +26,8 @@ Example (catalogued) outputs are available at [https://github.com/mhbeals/BL19th
 
 ### Use
 
-Run release candidate on Windows or open source in Visual Studio.
+Run release candidate on Windows or open source in Visual Studio with an individual input
+
+OR
+
+Use script and batch file creator (python) to run a sequence of files
