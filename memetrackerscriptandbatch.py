@@ -1,4 +1,7 @@
-# This script creates individual script files for running formatted match reports through the memetracker and a batch file for running all the scripts in sequence
+# This script creates individual script files for 
+# running formatted match reports through the 
+# memetracker and a batch file for running all 
+# the scripts in sequence
 
 start_year = 1800
 end_year = 1900
