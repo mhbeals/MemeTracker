@@ -23,11 +23,11 @@ while year < end_year:
 
         # Start file text
         
-        string = "C:\\Documents\\Notebooks\\"
+        string = "c:\\formatted_inputs\\"
         string += date
         string += ".tsv"
         string += "\n"
-        string += "D:\\Users\\M. H. Beals\\Documents\\GitHub\\MemeTracker\\Release\\"
+        string += "c:\\MemeTracker\\Release\\"
         string += date
         string += ".tsv"
         
@@ -85,7 +85,7 @@ while year < end_year:
     # Continue year loop 
 
 # Write script file
-filename = "memetracker".bat"
+filename = "memetracker.bat"
 text_file = open(filename, "w")
 text_file.write(string)
 text_file.close()
