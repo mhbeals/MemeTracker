@@ -1,7 +1,7 @@
 # MemeTracker
 ## Version: 1.0.0
 
-A programme to convert Copyfind64.4.1.4 outputs into a list of reprint matches for the creation of a list of memes; part of the [Scissors and Paste Project]( https://osf.io/nm2rq/)
+A programme to convert Copyfind64.4.1.4 outputs into a list of reprint matches for the creation of a list of memes; part of the [Scissors and Paste Project](https://osf.io/nm2rq/).
 
 ### Input
 
